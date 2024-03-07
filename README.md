@@ -41,7 +41,7 @@ response:
 ```
 
 ### RTC Token ###
-The `rtc` token endpoint requires a `channelName`, `role` ('publisher' or 'audience'), `tokentype` ('uid' || 'userAccount') and the user's `uid` (type varies based on `tokentype` (example: `1000` for uid, `ekaansh` for userAccount). 
+The `rtc` token endpoint requires a `channelName`, `role` ('publisher' or 'audience'), `tokentype` ('uid' || 'userAccount') and the user's `uid` (type varies based on `tokentype` (example: `1000` for uid, `manjeet` for userAccount). 
 `(optional)` Pass an integer to represent the token lifetime in seconds.
 
 **endpoint structure** 
